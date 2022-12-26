@@ -2,6 +2,8 @@
 
 #### I'm a Husband, Father, Multilingual developer.
 #### I'm also a Life Explorer, Lifelong Learner, Pet Person!
+
+## Latest status
 - 🔭 I’m currently working on [BitFlow.ltd](https://bitflow.ltd)!
 - 🌱 I’m currently finding a job in Ireland, Germany or other EU areas.
 
