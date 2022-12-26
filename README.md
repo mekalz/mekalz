@@ -7,6 +7,12 @@
 - 🔭 I’m currently working on [BitFlow.ltd](https://bitflow.ltd)!
 - 🌱 I’m currently finding a job in Ireland, Germany or other EU areas.
 
+## I'm working with
+> go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink
+>
+
+[![Languages](https://skillicons.dev/icons?i=go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink)](https://skillicons.dev)
+
 ## Apps I released
 - Copywriting Assistant
   > This tool is a miniprogram on WeChat. It can help vlogers on extracting subtitles from a video.
@@ -17,8 +23,3 @@
 - [QuoteMoji](https://apps.apple.com/us/app/%E5%8F%AF%E6%B2%90%E5%BF%83%E6%83%85%E8%AF%AD%E5%BD%95/id6444787701)
   > This is an iOS app which can help healing yourself with beautiful quotations and give you new energy every day. You can also record you moods with eMojis by this app.
 
-## My Skills
-> go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink
->
-
-[![Languages](https://skillicons.dev/icons?i=go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink)](https://skillicons.dev)
