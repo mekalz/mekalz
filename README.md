@@ -4,8 +4,7 @@
 #### I'm also a Life Explorer, Lifelong Learner, Pet Person!
 
 ## Latest status
-- 🔭 I’m currently working on [BitFlow.ltd](https://bitflow.ltd)!
-- 🌱 I’m currently finding a job in Ireland, Germany or other EU areas.
+- 🔭 I’m currently finding a job in Ireland, Germany or other EU areas.
 
 ## Main skills
 > go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink
