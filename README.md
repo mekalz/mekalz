@@ -7,7 +7,8 @@
 - 🔭 I’m currently finding a job in Ireland, Germany or other EU areas.
 
 ## Main skills
-> go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink
+> go,java,javascript,html,css,python,swift,django,git,vim,docker
+> linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink
 >
 
 [![Languages](https://skillicons.dev/icons?i=go,java,javascript,html,css,python,swift,django,git,vim,docker,linux,mysql,postgres,gcp,ansible,kubernetes,spark,kafka,hadoop,flink)](https://skillicons.dev)
