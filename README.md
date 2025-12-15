@@ -6,7 +6,7 @@
 
 ## Latest Status
 
-- 🔭 I’m currently creating a cool App for English learning: [灵瓜背单词](https://apps.apple.com/us/app/%E7%81%B5%E7%93%9C%E8%83%8C%E5%8D%95%E8%AF%8D-ai%E5%88%9B%E6%84%8F%E8%AF%BB%E6%95%85%E4%BA%8B%E8%BD%BB%E6%9D%BE%E5%AD%A6%E8%8B%B1%E8%AF%AD/id6446497697).
+- 🔭 I’m currently working in Dublin.
 
 ## Main Skills
 
